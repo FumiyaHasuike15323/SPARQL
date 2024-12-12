@@ -1,4 +1,4 @@
-# SPARQL# Project Overview
+# SPARQL Project Overview
 
 This repository contains Python scripts for analyzing SPARQL query generation performance using BLEU scores. Each script is designed to address specific aspects of the analysis, such as evaluating the impact of query components or extracting key statistics.
 
